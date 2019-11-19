@@ -1,0 +1,23 @@
+{
+  "name": "learn_typescript",
+  "version": "1.0.0",
+  "description": "typescript study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luKorea/learn_Typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "korealu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luKorea/learn_Typescript/issues"
+  },
+  "homepage": "https://github.com/luKorea/learn_Typescript#readme"
+}
